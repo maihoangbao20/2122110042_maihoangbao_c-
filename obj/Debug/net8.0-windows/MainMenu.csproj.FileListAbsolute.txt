@@ -1,0 +1,14 @@
+D:\maihoangbao.c#\MainMenu\bin\Debug\net8.0-windows\MainMenu.exe
+D:\maihoangbao.c#\MainMenu\bin\Debug\net8.0-windows\MainMenu.deps.json
+D:\maihoangbao.c#\MainMenu\bin\Debug\net8.0-windows\MainMenu.runtimeconfig.json
+D:\maihoangbao.c#\MainMenu\bin\Debug\net8.0-windows\MainMenu.dll
+D:\maihoangbao.c#\MainMenu\bin\Debug\net8.0-windows\MainMenu.pdb
+D:\maihoangbao.c#\MainMenu\obj\Debug\net8.0-windows\MainMenu.GeneratedMSBuildEditorConfig.editorconfig
+D:\maihoangbao.c#\MainMenu\obj\Debug\net8.0-windows\MainMenu.AssemblyInfoInputs.cache
+D:\maihoangbao.c#\MainMenu\obj\Debug\net8.0-windows\MainMenu.AssemblyInfo.cs
+D:\maihoangbao.c#\MainMenu\obj\Debug\net8.0-windows\MainMenu.csproj.CoreCompileInputs.cache
+D:\maihoangbao.c#\MainMenu\obj\Debug\net8.0-windows\MainMenu.dll
+D:\maihoangbao.c#\MainMenu\obj\Debug\net8.0-windows\refint\MainMenu.dll
+D:\maihoangbao.c#\MainMenu\obj\Debug\net8.0-windows\MainMenu.pdb
+D:\maihoangbao.c#\MainMenu\obj\Debug\net8.0-windows\MainMenu.genruntimeconfig.cache
+D:\maihoangbao.c#\MainMenu\obj\Debug\net8.0-windows\ref\MainMenu.dll
